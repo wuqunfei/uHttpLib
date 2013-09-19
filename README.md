@@ -24,4 +24,3 @@ About me, I am a communication engineer in Shanghai and familiar with many progr
 This library arouses from Python urllib2 and lxml module. If you intend to create a crawler with PHP, 
 uhttplib is fit for you. Enjoy it!
 Contact wu.qunfei@gmail.com
-

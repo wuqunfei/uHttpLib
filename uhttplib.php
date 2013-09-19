@@ -6,6 +6,14 @@
  * Time: 2:18
  * Email: wu.qunfei@gmail.com
  *
+ * $dom has several functions to search
+ * $dom->getElementById()
+ * $dom->getElementByTagName()
+ * $dom->find()
+ * $dom->childNodes()
+ * $dom->firstChild()
+ * $dom->lastChild(
+ * $dom->nodes()
  */
 
 

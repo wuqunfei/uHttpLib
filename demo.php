@@ -50,6 +50,6 @@ $url = "http://www.weather.com/weather/today/Shanghai+CHXX0116:1:CH";
 $req = new UHttpLib($url);
 $response = $req->Get();
 $elementTree = $req->tree($response);
-$doms = $elementTree->find(".wx-temperature");
+$doms = $elementTree->childNodes(".wx-temperature");
 var_dump($doms);
 
